@@ -1,0 +1,28 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.kreemo-sidebar {
+    background-color: #B52507;
+}
+
+.fa-home {
+    margin-right: 25px;
+}
+
+.fa-book {
+    margin-left: 25px;
+}
+
+.mihover{
+    background-color: yellow;
+}
+
+ul li a .c-sidebar-nav-link {
+    color: rgb(252, 50, 50);
+  }
